@@ -1,6 +1,10 @@
 # SERCOM
 serial assistant written in python
 
-to run this software, you need python 2.7, pyqt4, pyqwt and pyserial
+```
+pip install -r requirements.txt
+python SERCOM.pyw
+```
 
-![](https://github.com/XIVN1987/SERCOM/blob/master/截屏.jpg)
+![](截屏.jpg)
+
